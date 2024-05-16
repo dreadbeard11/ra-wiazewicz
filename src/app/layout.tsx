@@ -2,6 +2,10 @@ import Footer from "@/app/_components/footer";
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import localFont from 'next/font/local'
+ 
+// Font files can be colocated inside of `pages`
+const oggRegular = localFont({ src: './Ogg-Regular.woff' })
 
 import "./globals.css";
 
@@ -55,7 +59,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
-      <body className={inter.className}>
+      <body className={oggRegular.className}>
         <div className="min-h-screen">{children}</div>
         <Footer />
       </body>
