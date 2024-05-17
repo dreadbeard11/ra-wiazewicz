@@ -10,7 +10,6 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-
 Rechtsanwalt Wiazewicz
 Tätigkeitsbereiche
 
