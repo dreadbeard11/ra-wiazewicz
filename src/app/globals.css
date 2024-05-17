@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@layer base {
+  @font-face {
+    font-family: 'Ogg-Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(./Ogg-Regular.woff) format('woff');
+  }
+}
