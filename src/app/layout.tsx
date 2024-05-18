@@ -60,7 +60,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
-      <body className={oggRegular.className}>
+      <body className={inter.className}>
         <div className="min-h-screen">{children}</div>
         <Footer />
       </body>
