@@ -51,7 +51,7 @@ export default function Index() {
     <main>
       <Container>
         <Intro />
-        <PostBody content={content} />
+        
         <HeroPost
           title={heroPost.title}
           coverImage={heroPost.coverImage}
