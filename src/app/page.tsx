@@ -45,7 +45,7 @@ export default function Index() {
 
   const morePosts = allPosts.slice(1);
 
-  const content = await markdownToHtml(heroPost.title || "");
+  // const content = await markdownToHtml(heroPost.title || "");
 
   return (
     <main>
