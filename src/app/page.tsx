@@ -4,12 +4,13 @@ import { Intro } from "@/app/_components/intro";
 import { MoreStories } from "@/app/_components/more-stories";
 import { getAllPosts } from "@/lib/api";
 
+import markdownToHtml from "@/lib/markdownToHtml";
+import { PostBody } from "@/app/_components/post-body";
+
 /*
 /////////
 
-import markdownToHtml from "@/lib/markdownToHtml";
 
-import { PostBody } from "@/app/_components/post-body";
 import { PostHeader } from "@/app/_components/post-header";
 
 export default async function Post({ params }: Params) {
