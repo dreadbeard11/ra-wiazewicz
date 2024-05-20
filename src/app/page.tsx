@@ -45,10 +45,13 @@ export default function Index() {
 
   const morePosts = allPosts.slice(1);
 
+  const content = await markdownToHtml(heroPost.content || "");
+
   return (
     <main>
       <Container>
         <Intro />
+        <PostBody content={content} />
         <HeroPost
           title={heroPost.title}
           coverImage={heroPost.coverImage}
