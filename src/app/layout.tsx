@@ -64,7 +64,7 @@ export default function RootLayout({
        <div className="drawer drawer-end">
   <input id="my-drawer-4" type="checkbox" className="drawer-toggle" />
   <div className="drawer-content">
-    <div className={$oggRegular.className+' logo xheader font-display text-sm p-4'}>Rechtsanwalt Wiazewicz</div>
+    <div className=" logo xheader font-display text-sm p-4">Rechtsanwalt Wiazewicz</div>
         <div className="min-h-screen">{children}</div>
         <Footer />
     <label htmlFor="my-drawer-4" className="drawer-button btn btn-primary">Open drawer</label>
