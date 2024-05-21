@@ -6,6 +6,7 @@ const config: Config = {
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  plugins: [require("daisyui")],
   theme: {
     extend: {
       backgroundImage: {
@@ -37,9 +38,7 @@ const config: Config = {
         md: "0 8px 30px rgba(0, 0, 0, 0.12)",
       },
     },
-  },
-  plugins: [
-    
-  ],
+  }
+
 };
 export default config;
