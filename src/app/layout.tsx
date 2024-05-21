@@ -61,7 +61,7 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body className={inter.className}>
-        <div className="xheader font-display text-sm py-12">Rechtsanwalt Wiazewicz</div>
+        <div className="xheader font-display text-sm p-4">Rechtsanwalt Wiazewicz</div>
         <div className="min-h-screen">{children}</div>
         <Footer />
       </body>
