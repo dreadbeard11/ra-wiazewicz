@@ -13,16 +13,7 @@ export default function Index() {
       <Container>
         <Intro />
      
-Rechtsanwalt Wiazewicz
-Tätigkeitsbereiche
 
-    Arbeitsrecht
-    Ausländerrecht
-    Asylrecht
-    Familienrecht
-    Kitarecht
-    Mietrecht
-    Strafverteidigung
 
 Korrespondenzsprachen
 
