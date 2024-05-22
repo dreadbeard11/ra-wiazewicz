@@ -3,6 +3,7 @@ import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import localFont from 'next/font/local'
+import { SwitchTheme } from "@/app/_components/SwitchTheme";
 
  
 // Font files can be colocated inside of `pages`
@@ -75,7 +76,9 @@ export default function RootLayout({
       {/* Sidebar content here */}
       <li><a>Sidebar Item 1</a></li>
       <li><a>Sidebar Item 2</a></li>
+     
     </ul>
+   <SwitchTheme />
   </div>
 </div>
         
