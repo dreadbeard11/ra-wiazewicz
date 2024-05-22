@@ -61,7 +61,7 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body className={inter.className}>
-       <div className="fixed p-4 top-8 right-8">
+       <div className="fixed p-4 top-8 right-8 z-12">
           <SwitchTheme />
        </div>
        <div className="drawer drawer-end">
