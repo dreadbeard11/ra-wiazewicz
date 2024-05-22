@@ -6,7 +6,7 @@ import { Intro } from "@/app/_components/intro";
 export default function Index() {
 
   return (
-    <main>
+    <main className="space-y-8">
       <Container>
         <Intro />
      
