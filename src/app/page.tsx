@@ -11,24 +11,32 @@ export default function Index() {
         <Intro />
      
 
-
-Korrespondenzsprachen
+<div>
+<h2>Korrespondenzsprachen</h2>
 
 deutsch, englisch, französisch, niederländisch
-Anschrift
+</div>
+<div>
+<h2>Anschrift</h2>
 
 Stubenrauchstr. 70
 12161 Berlin Friedenau
 Tel: 030 44049982
 Mobil: 0172 3905208
 Email: ra@wiazewicz.de
+  
+</div>
+<div>
+        
 Information nach dem Telemediengesetz
 
 Umsatzsteuernummer: 210838591
-
+</div>
+<div>
 Herr Wiazewicz ist Mitglied der Rechtsanwaltskammer Berlin und in Berlin zugelassen; Postulationsfähig vor allen Amts,-Land und Oberlandesgerichten/Kammergericht.
 
 Die Berufshaftpflichtversicherung von Rechtsanwalt Wiazewicz (Versicherungs-Nr. 03.053.5511 50) besteht bei der Gothaer Versicherungsbank VVaG, Gothaer Allee 1, 50969 Köln.
+</div>
 <div>
 Es gelten die folgenden berufsrechtlichen Regelungen:
         <ul>
