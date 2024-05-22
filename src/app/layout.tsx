@@ -62,7 +62,7 @@ export default function RootLayout({
       </head>
       <body className={inter.className}>
        <div className="fixed top-8 right-8 z-12">
-<SwitchTheme/>
+<SwitchTheme />
         <label className="btn btn-circle swap swap-rotate">
   
   {/* this hidden checkbox controls the state */}
