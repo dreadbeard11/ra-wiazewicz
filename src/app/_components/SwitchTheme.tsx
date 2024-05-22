@@ -26,13 +26,13 @@ export const SwitchTheme = ({ className }: { className?: string }) => {
 
   return (
     <div className={`flex space-x-2 h-8 items-center justify-center text-sm ${className}`}>
-      <label htmlFor="theme-toggle" className={`swap swap-rotate ${!isDarkMode ? "swap-active" : ""}`}>
-  <input
+      <input
         id="theme-toggle"
         type="checkbox"
         onChange={handleToggle}
-      
       />
+      <label htmlFor="theme-toggle" className={`swap swap-rotate ${!isDarkMode ? "swap-active" : ""}`}>
+  
   <div className="swap-on">ON</div>
   <div className="swap-off">OFF</div>
 </label>
