@@ -62,7 +62,8 @@ export default function RootLayout({
       </head>
       <body className={inter.className}>
        <div className="fixed p-4 top-8 right-8 z-12">
-          <label className="btn btn-circle swap swap-rotate">
+    
+          <label aria-label="close sidebar" htmlFor="my-drawer-4" className="drawer-overlay btn btn-circle swap swap-rotate">
   
   {/* this hidden checkbox controls the state */}
   <input type="checkbox" />
@@ -84,7 +85,7 @@ export default function RootLayout({
     <label htmlFor="my-drawer-4" className="drawer-button btn btn-primary">Open drawer</label>
   </div> 
   <div className="drawer-side">
-    <label htmlFor="my-drawer-4" aria-label="close sidebar" className="drawer-overlay"></label>
+    
     <ul className="menu p-4 w-80 min-h-full bg-base-200 text-base-content">
       {/* Sidebar content here */}
       <li><a>Sidebar Item 1</a></li>
