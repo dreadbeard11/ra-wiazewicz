@@ -4,7 +4,6 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import localFont from 'next/font/local'
 import { SwitchTheme } from "@/app/_components/SwitchTheme";
-
  
 // Font files can be colocated inside of `pages`
 const oggRegular = localFont({ src: './Ogg-Regular.woff' })
