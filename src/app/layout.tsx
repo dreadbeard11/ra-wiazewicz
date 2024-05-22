@@ -62,7 +62,11 @@ export default function RootLayout({
       </head>
       <body className={inter.className}>
        <div className="fixed p-4 top-8 right-8 z-12">
-        
+        <label className="swap">
+  <input type="checkbox" />
+  <div className="swap-on">ON</div>
+  <div className="swap-off">OFF</div>
+</label>
        </div>
        <div className="drawer drawer-end">
   <input id="my-drawer-4" type="checkbox" className="drawer-toggle" />
