@@ -11,10 +11,15 @@
     font-display: swap;
     src: url(./Ogg-Regular.woff) format('woff');
   }
-
+ @font-face {
+    font-family: 'Ogg-Bold';
+    font-weight: 700;
+    font-display: swap;
+    src: url(./Ogg-Bold.woff) format('woff');
+  }
   
   .logo {
-    font-family: 'Ogg-Regular', serif;
+    font-family: 'Ogg-Bold', serif;
   }
   
 }
