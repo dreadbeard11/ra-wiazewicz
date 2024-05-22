@@ -26,6 +26,11 @@ export const SwitchTheme = ({ className }: { className?: string }) => {
 
   return (
     <div className={`flex space-x-2 h-8 items-center justify-center text-sm ${className}`}>
+      <label className="swap">
+  <input type="checkbox" />
+  <div className="swap-on">ON</div>
+  <div className="swap-off">OFF</div>
+</label>
       <input
         id="theme-toggle"
         type="checkbox"
