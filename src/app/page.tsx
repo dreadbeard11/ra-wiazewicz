@@ -29,14 +29,16 @@ Umsatzsteuernummer: 210838591
 Herr Wiazewicz ist Mitglied der Rechtsanwaltskammer Berlin und in Berlin zugelassen; Postulationsfähig vor allen Amts,-Land und Oberlandesgerichten/Kammergericht.
 
 Die Berufshaftpflichtversicherung von Rechtsanwalt Wiazewicz (Versicherungs-Nr. 03.053.5511 50) besteht bei der Gothaer Versicherungsbank VVaG, Gothaer Allee 1, 50969 Köln.
-
+<div>
 Es gelten die folgenden berufsrechtlichen Regelungen:
-(a) Bundesrechtsanwaltsordnung (BRAO)
-(b) Rechtsanwaltsvergütungsgesetz (RVG)
-(c) Berufsordnung (BerufsO)
-(e) Berufsregeln der Rechtsanwälte der Europäischen Gemeinschaft
+        <ul>
+<li>(a) Bundesrechtsanwaltsordnung (BRAO)</li>
+<li>(b) Rechtsanwaltsvergütungsgesetz (RVG)</li>
+<li>(c) Berufsordnung (BerufsO)</li>
+<li>(e) Berufsregeln der Rechtsanwälte der Europäischen Gemeinschaft
 (einsehbar auf dieser Homepage :www.brak.de)
-
+      </li>  </ul>
+  </div>      
 Aufsichtsbehörde im Sinne des § 6 TDG ist die Rechtsanwaltskammer Berlin.
 
 Haftungsauschluss
