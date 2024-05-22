@@ -12,12 +12,12 @@ export default function Index() {
      
 
 <div>
-<h2>Korrespondenzsprachen</h2>
+<h2 className="text-2xl">Korrespondenzsprachen</h2>
 
 deutsch, englisch, französisch, niederländisch
 </div>
 <div>
-<h2>Anschrift</h2>
+<h2 className="text-2xl">Anschrift</h2>
 
 Stubenrauchstr. 70
 12161 Berlin Friedenau
