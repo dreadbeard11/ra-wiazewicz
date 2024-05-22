@@ -61,6 +61,9 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body className={inter.className}>
+       <div className="fixed p-4 top-8 right-8">
+          <SwitchTheme />
+       </div>
        <div className="drawer drawer-end">
   <input id="my-drawer-4" type="checkbox" className="drawer-toggle" />
   <div className="drawer-content">
@@ -77,7 +80,7 @@ export default function RootLayout({
       <li><a>Sidebar Item 2</a></li>
      
     </ul>
-   <SwitchTheme />
+   
   </div>
 </div>
         
