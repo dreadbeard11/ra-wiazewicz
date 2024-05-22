@@ -30,9 +30,8 @@ export const SwitchTheme = ({ className }: { className?: string }) => {
   <input
         id="theme-toggle"
         type="checkbox"
-        
         onChange={handleToggle}
-        checked={isDarkMode}
+      
       />
   <div className="swap-on">ON</div>
   <div className="swap-off">OFF</div>
