@@ -37,11 +37,7 @@ export const SwitchTheme = ({ className }: { className?: string }) => {
   <div className="swap-off">OFF</div>
 </label>
 
-      <label className="swap">
-  <input type="checkbox" />
-  <div className="swap-on">ON</div>
-  <div className="swap-off">OFF</div>
-</label>
+
   
     </div>
   );
