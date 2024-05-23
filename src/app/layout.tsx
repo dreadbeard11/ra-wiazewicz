@@ -68,7 +68,7 @@ export default function RootLayout({
         
        <div className="fixed top-8 right-8 z-12">
 
-     
+     <SwitchTheme />
         
        </div>
       
