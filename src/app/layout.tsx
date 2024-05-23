@@ -4,8 +4,19 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import localFont from 'next/font/local'
 import { SwitchTheme } from "@/app/_components/SwitchTheme";
-import { ThemeProvider } from "@/app/_components/ThemeProvider";
 
+import { ThemeProvider } from 'next-themes'
+
+export default function Layout({ children }) {
+  return (
+    <html suppressHydrationWarning>
+      <head />
+      <body>
+        <ThemeProvider>{children}</ThemeProvider>
+      </body>
+    </html>
+  )
+}
 // Font files can be colocated inside of `pages`
 const oggRegular = localFont({ src: './Ogg-Regular.woff' })
 
@@ -81,5 +92,19 @@ export default function RootLayout({
            </ThemeProvider> 
       </body>
     </html>
+
+    // app/layout.jsx
+import { ThemeProvider } from 'next-themes'
+
+export default function Layout({ children }) {
+  return (
+    <html suppressHydrationWarning>
+      <head />
+      <body>
+        <ThemeProvider>{children}</ThemeProvider>
+      </body>
+    </html>
+  )
+}
   );
 }
