@@ -7,16 +7,7 @@ import { SwitchTheme } from "@/app/_components/SwitchTheme";
 
 import { ThemeProvider } from 'next-themes'
 
-export default function Layout({ children }) {
-  return (
-    <html suppressHydrationWarning>
-      <head />
-      <body>
-        <ThemeProvider>{children}</ThemeProvider>
-      </body>
-    </html>
-  )
-}
+
 // Font files can be colocated inside of `pages`
 const oggRegular = localFont({ src: './Ogg-Regular.woff' })
 
@@ -38,7 +29,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <head>
         <link
           rel="apple-touch-icon"
