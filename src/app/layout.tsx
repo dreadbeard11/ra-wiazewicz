@@ -3,8 +3,8 @@ import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import localFont from 'next/font/local'
-import { SwitchTheme } from "@/app/_components/SwitchTheme";
-import { ThemeSwitch } from "@/app/_components/ThemeSwitch";
+// import { SwitchTheme } from "@/app/_components/SwitchTheme";
+// import { ThemeSwitch } from "@/app/_components/ThemeSwitch";
 
 import { ThemeProvider } from 'next-themes'
 
@@ -68,7 +68,7 @@ export default function RootLayout({
         
        <div className="fixed top-8 right-8 z-12">
 
-     <SwitchTheme />
+     
         
        </div>
       
