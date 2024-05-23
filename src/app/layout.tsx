@@ -64,7 +64,7 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body className={inter.className}>
-          <ThemeProvider>
+        
        <div className="fixed top-8 right-8 z-12">
 <SwitchTheme />
      
@@ -77,7 +77,7 @@ export default function RootLayout({
         <div className="min-h-screen">{children}</div>
         <Footer />
     
-           </ThemeProvider> 
+           
       </body>
     </html>
 
