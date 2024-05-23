@@ -67,7 +67,7 @@ export default function RootLayout({
       <body className={inter.className}>
         
        <div className="fixed top-8 right-8 z-12">
-<ThemeSwitch />
+
      
         
        </div>
