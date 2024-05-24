@@ -4,9 +4,9 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import localFont from 'next/font/local'
 // import { SwitchTheme } from "@/app/_components/SwitchTheme";
- import { ThemeSwitch } from "@/app/_components/ThemeSwitch";
+// import { ThemeSwitch } from "@/app/_components/ThemeSwitch";
 
-import { ThemeProvider } from 'next-themes'
+// import { ThemeProvider } from 'next-themes'
 
 
 // Font files can be colocated inside of `pages`
