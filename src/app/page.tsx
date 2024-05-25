@@ -1,7 +1,7 @@
 import Container from "@/app/_components/container";
 // import { ThemeSwitch } from "@/app/_components/ThemeSwitch";
 import { Intro } from "@/app/_components/intro";
-
+import ThemeSwitch from "@/app/_components/ThemeSwitch";
 
 export default function Index() {
 
@@ -9,7 +9,7 @@ export default function Index() {
     <main>
       <Container>
         <div className="space-y-8">
-          
+          <ThemeSwitch />
         <Intro />
      
 
