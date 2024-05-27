@@ -65,7 +65,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
-      <body className={inter.className} data-theme="darkx">
+      <body className={inter.className} >
         <ThemeProviders>
        <div className="fixed top-8 right-8 z-12">
 
