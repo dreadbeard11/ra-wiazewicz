@@ -28,9 +28,9 @@ Mobil: 0172 3905208
 Email: ra@wiazewicz.de
   
 </div>
-<div className="border border-primary">
+<div className="border border-rounded-xl p-4">
         
-<h2 className="text-2xl">Information nach dem Telemediengesetz</h2>
+<h2 className="text-bold">Information nach dem Telemediengesetz</h2>
 
 <div className="font-mono">Umsatzsteuernummer: 210838591</div>
 </div>
