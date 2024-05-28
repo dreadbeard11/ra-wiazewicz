@@ -20,9 +20,10 @@ deutsch, englisch, französisch, niederländisch
 </div>
 <div>
 <h2 className="text-2xl">Anschrift</h2>
-
-Stubenrauchstr. 70
-12161 Berlin Friedenau
+<div>
+Stubenrauchstr. 70</div>
+<div>
+12161 Berlin Friedenau</div>
 Tel: 030 44049982
 Mobil: 0172 3905208
 Email: ra@wiazewicz.de
