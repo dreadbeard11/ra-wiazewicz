@@ -7,21 +7,15 @@ export function Footer() {
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
-            Statically Generated with Next.js.
+            Haftungsauschluss
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
-            <a
-              href="https://nextjs.org/docs/app/building-your-application/routing/layouts-and-templates"
-              className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
-            >
-              Read Documentation
-            </a>
-            <a
-              href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
-              className="mx-3 font-bold hover:underline"
-            >
-              View on GitHub
-            </a>
+     
+
+Die Informationen auf diesen Internetseiten wurden nach bestem Wissen zusammengestellt. Sie dienen der allgemeinen Information. Die hier gegebenen Informationen stellen keine rechtliche Beratung dar. Eine Haftung aufgrund der hier gegebenen allgemeinen Hinweise ist daher ausgeschlossen.
+
+Als Service für den Benutzer enthalten diese Seiten außerdem Verweise (Links) zu Internetseiten anderer Anbieter. Auf die Gestaltung und die Inhalte der gelinkten Seiten habe ich keinen Einfluss. Ich übernehme keinerlei Gewähr oder Haftung für den Inhalt, die Aktualität, Korrektheit, Vollständigkeit, Qualität oder Quelle der auf diesen Seiten dargebotenen Informationen oder davon heruntergeladener Dateien. Ich bin in keiner Weise verantwortlich für die Internetseiten Dritter und distanziere mich von deren Inhalten ausdrücklich.
+</div>
           </div>
         </div>
       </Container>
