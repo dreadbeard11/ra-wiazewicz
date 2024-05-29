@@ -39,7 +39,7 @@ deutsch, englisch, französisch, niederländisch
 <div>Email: ra@wiazewicz.de </div>
   
 </div>
-<div className="border border-2 rounded-lg border-current p-4">
+<div className="border rounded-sm border-current p-4">
         
 <h2 className="font-bold text-sm">Information nach dem Telemediengesetz</h2>
 
@@ -48,7 +48,8 @@ deutsch, englisch, französisch, niederländisch
 </div>
 <div>
 Herr Wiazewicz ist Mitglied der Rechtsanwaltskammer Berlin und in Berlin zugelassen; Postulationsfähig vor allen Amts,-Land und Oberlandesgerichten/Kammergericht.
-
+</div>
+<div>
 Die Berufshaftpflichtversicherung von Rechtsanwalt Wiazewicz (Versicherungs-Nr. 03.053.5511 50) besteht bei der Gothaer Versicherungsbank VVaG, Gothaer Allee 1, 50969 Köln.
 </div>
 <div>
