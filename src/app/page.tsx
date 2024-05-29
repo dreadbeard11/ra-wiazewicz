@@ -27,11 +27,11 @@ deutsch, englisch, französisch, niederländisch
 <div>Email: ra@wiazewicz.de </div>
   
 </div>
-<div className="border border-current p-4">
+<div className="border border-2 rounded-xl border-current p-4">
         
-<h2 className="text-bold">Information nach dem Telemediengesetz</h2>
+<h2 className="font-bold text-xs">Information nach dem Telemediengesetz</h2>
 
-<div className="font-mono">Umsatzsteuernummer: 210838591</div>
+<div className="font-mono text-xl">Umsatzsteuernummer: 210838591</div>
 </div>
 <div>
 Herr Wiazewicz ist Mitglied der Rechtsanwaltskammer Berlin und in Berlin zugelassen; Postulationsfähig vor allen Amts,-Land und Oberlandesgerichten/Kammergericht.
