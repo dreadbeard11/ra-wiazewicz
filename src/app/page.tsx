@@ -10,7 +10,19 @@ export default function Index() {
       <Container>
         <div className="space-y-8">
           
-        <Intro />
+<div>
+<h2 className="text-2xl">
+Tätigkeitsbereiche</h2>
+<ul>
+  <li>Arbeitsrecht</li>
+   <li> Ausländerrecht</li>
+  <li> Asylrecht</li>
+    <li>Familienrecht</li>
+   <li> Kitarecht</li>
+   <li> Mietrecht</li>
+    <li>Strafverteidigung</li>
+</ul>
+</div>
      
 
 <div>
