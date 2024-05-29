@@ -20,13 +20,11 @@ deutsch, englisch, französisch, niederländisch
 </div>
 <div>
 <h2 className="text-2xl">Anschrift</h2>
-<div>
-Stubenrauchstr. 70</div>
-<div>
-12161 Berlin Friedenau</div>
-Tel: 030 44049982
-Mobil: 0172 3905208
-Email: ra@wiazewicz.de
+<div>Stubenrauchstr. 70</div>
+<div>12161 Berlin Friedenau</div>
+<div>Tel: 030 44049982 </div>
+<div>Mobil: 0172 3905208 </div>
+<div>Email: ra@wiazewicz.de </div>
   
 </div>
 <div className="border border-rounded-xl p-4">
