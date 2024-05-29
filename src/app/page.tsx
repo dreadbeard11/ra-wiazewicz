@@ -3,7 +3,7 @@ import Container from "@/app/_components/container";
 import { Intro } from "@/app/_components/intro";
 // import ThemeSwitch from "@/app/_components/ThemeSwitch";
 
-import { PhoneIcon, DevicePhoneMobileIcon } from "@heroicons/react/24/outline";
+import { PhoneIcon, DevicePhoneMobileIcon, EnvelopeIcon } from "@heroicons/react/24/outline";
 
 export default function Index() {
 
@@ -38,7 +38,7 @@ deutsch, englisch, französisch, niederländisch
 <div>12161 Berlin Friedenau</div>
 <div><PhoneIcon className="h-5 w-5 inline" />Tel: 030 44049982 </div>
 <div><DevicePhoneMobileIcon className="h-5 w-5 inline" />Mobil: 0172 3905208 </div>
-<div>Email: ra@wiazewicz.de </div>
+<div><EnvelopeIcon className="h-5 w-5 inline" />Email: ra@wiazewicz.de </div>
   
 </div>
 <div className="border rounded-sm border-current p-4">
