@@ -27,7 +27,7 @@ deutsch, englisch, französisch, niederländisch
 <div>Email: ra@wiazewicz.de </div>
   
 </div>
-<div className="border border-content p-4">
+<div className="border border-current p-4">
         
 <h2 className="text-bold">Information nach dem Telemediengesetz</h2>
 
