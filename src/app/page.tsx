@@ -39,7 +39,7 @@ deutsch, englisch, französisch, niederländisch
 <div>Email: ra@wiazewicz.de </div>
   
 </div>
-<div className="border border-2 rounded-xl border-current bg-[#00f1] p-4">
+<div className="border border-2 rounded-lg border-current p-4">
         
 <h2 className="font-bold text-sm">Information nach dem Telemediengesetz</h2>
 
