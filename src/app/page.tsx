@@ -37,7 +37,7 @@ deutsch, englisch, französisch, niederländisch
 <div>Stubenrauchstr. 70</div>
 <div>12161 Berlin Friedenau</div>
 <div>Tel: 030 44049982 </div>
-<div><DevicePhoneMobileIcon className="h-5 w-5" />Mobil: 0172 3905208 </div>
+<div><DevicePhoneMobileIcon className="h-5 w-5 inline" />Mobil: 0172 3905208 </div>
 <div>Email: ra@wiazewicz.de </div>
   
 </div>
