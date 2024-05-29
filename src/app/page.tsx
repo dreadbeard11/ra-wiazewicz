@@ -3,6 +3,8 @@ import Container from "@/app/_components/container";
 import { Intro } from "@/app/_components/intro";
 // import ThemeSwitch from "@/app/_components/ThemeSwitch";
 
+import { MoonIcon, SunIcon } from "@heroicons/react/24/outline";
+
 export default function Index() {
 
   return (
@@ -35,7 +37,7 @@ deutsch, englisch, französisch, niederländisch
 <div>Stubenrauchstr. 70</div>
 <div>12161 Berlin Friedenau</div>
 <div>Tel: 030 44049982 </div>
-<div>Mobil: 0172 3905208 </div>
+<div><SunIcon className="h-5 w-5" />Mobil: 0172 3905208 </div>
 <div>Email: ra@wiazewicz.de </div>
   
 </div>
