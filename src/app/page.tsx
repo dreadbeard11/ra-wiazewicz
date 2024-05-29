@@ -32,7 +32,7 @@ deutsch, englisch, französisch, niederländisch
 <h2 className="font-bold text-sm">Information nach dem Telemediengesetz</h2>
 
 <div className=" text-sm">Umsatzsteuernummer:</div>
-  <div className="text-xl font-mono">210838591</div>
+  <div className="text-2xl font-mono">210838591</div>
 </div>
 <div>
 Herr Wiazewicz ist Mitglied der Rechtsanwaltskammer Berlin und in Berlin zugelassen; Postulationsfähig vor allen Amts,-Land und Oberlandesgerichten/Kammergericht.
