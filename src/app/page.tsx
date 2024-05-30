@@ -36,7 +36,7 @@ deutsch, englisch, französisch, niederländisch
 <h2 className="text-2xl">Anschrift</h2>
 <div>Stubenrauchstr. 70</div>
 <div>12161 Berlin Friedenau</div>
-  <div className="space-y-2 flex flex-row">
+  <div className="space-x-4 flex flex-row">
 
 <div><PhoneIcon className="w-3 inline" />Tel: 030 44049982 </div>
 <div><DevicePhoneMobileIcon className="w-3 inline" />Mobil: 0172 3905208 </div>
