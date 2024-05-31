@@ -34,11 +34,11 @@
   }
   
   .logo {
-    font-family: 'OggText-Bold', serif;
+    font-family: 'Ogg-Bold', serif;
   }
 
-   body {
-    font-family: 'OggText-Light', serif;
+   h2 {
+    font-family: 'OggText-Bold', serif;
   }
   
 }
