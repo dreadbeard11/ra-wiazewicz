@@ -17,9 +17,28 @@
     font-display: swap;
     src: url(./Ogg-Bold.woff) format('woff');
   }
+
+
+  @font-face {
+    font-family: 'OggText-Light';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(./OggText-Light.woff) format('woff');
+  }
+ @font-face {
+    font-family: 'OggText-Bold';
+    font-weight: 700;
+    font-display: swap;
+    src: url(./OggText-Bold.woff) format('woff');
+  }
   
   .logo {
-    font-family: 'Ogg-Bold', serif;
+    font-family: 'OggText-Bold', serif;
+  }
+
+   body {
+    font-family: 'OggText-Light', serif;
   }
   
 }
