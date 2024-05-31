@@ -69,6 +69,14 @@ Es gelten die folgenden berufsrechtlichen Regelungen:
 Aufsichtsbehörde im Sinne des § 6 TDG ist die Rechtsanwaltskammer Berlin.
 
 </div>
+<div>
+     <h2 className="text-2xl">
+Haftungsauschluss
+       </h2>
+Die Informationen auf diesen Internetseiten wurden nach bestem Wissen zusammengestellt. Sie dienen der allgemeinen Information. Die hier gegebenen Informationen stellen keine rechtliche Beratung dar. Eine Haftung aufgrund der hier gegebenen allgemeinen Hinweise ist daher ausgeschlossen.
+
+Als Service für den Benutzer enthalten diese Seiten außerdem Verweise (Links) zu Internetseiten anderer Anbieter. Auf die Gestaltung und die Inhalte der gelinkten Seiten habe ich keinen Einfluss. Ich übernehme keinerlei Gewähr oder Haftung für den Inhalt, die Aktualität, Korrektheit, Vollständigkeit, Qualität oder Quelle der auf diesen Seiten dargebotenen Informationen oder davon heruntergeladener Dateien. Ich bin in keiner Weise verantwortlich für die Internetseiten Dritter und distanziere mich von deren Inhalten ausdrücklich. 
+    </div>
       </Container>
     </main>
   );
