@@ -13,7 +13,7 @@ export default function Index() {
         <div className="space-y-8">
           
 <div>
-<h2 className="text-2xl">
+<h2>
 Tätigkeitsbereiche</h2>
 <ul>
   <li>Arbeitsrecht</li>
@@ -28,12 +28,12 @@ Tätigkeitsbereiche</h2>
      
 
 <div>
-<h2 className="text-2xl">Korrespondenzsprachen</h2>
+<h2>Korrespondenzsprachen</h2>
 
 deutsch, englisch, französisch, niederländisch
 </div>
 <div>
-<h2 className="text-2xl">Anschrift</h2>
+<h2>Anschrift</h2>
 <div>Stubenrauchstr. 70</div>
 <div>12161 Berlin Friedenau</div>
   <div className="space-x-8 flex flex-row">
@@ -45,7 +45,7 @@ deutsch, englisch, französisch, niederländisch
 </div>
 <div className="border rounded-sm border-current p-4">
         
-<h2 className="font-bold text-sm">Information nach dem Telemediengesetz</h2>
+<h2>Information nach dem Telemediengesetz</h2>
 
 <div className=" text-sm">Umsatzsteuernummer:</div>
   <div className="text-2xl font-mono">210838591</div>
