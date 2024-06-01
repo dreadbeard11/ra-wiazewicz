@@ -43,7 +43,7 @@ deutsch, englisch, französisch, niederländisch
 <div><EnvelopeIcon className="w-4 inline" />Email: ra@wiazewicz.de </div>
   </div>
 </div>
-<div className="border rounded-sm border-current p-4">
+<div>
         
 <h2>Information nach dem Telemediengesetz</h2>
 
@@ -70,7 +70,7 @@ Es gelten die folgenden berufsrechtlichen Regelungen:
 Aufsichtsbehörde im Sinne des § 6 TDG ist die Rechtsanwaltskammer Berlin.
  </div>    
           <div>
-     <h2 className="text-2xl">
+     <h2>
 Haftungsauschluss
        </h2>
 Die Informationen auf diesen Internetseiten wurden nach bestem Wissen zusammengestellt. Sie dienen der allgemeinen Information. Die hier gegebenen Informationen stellen keine rechtliche Beratung dar. Eine Haftung aufgrund der hier gegebenen allgemeinen Hinweise ist daher ausgeschlossen.
