@@ -13,7 +13,7 @@ export default function Index() {
   return (
     <main>
       <Container>
-        <div className="space-y-16 md:w-[900px] max-w-[1200px] text-lg">
+        <div className="space-y-18 md:w-[900px] max-w-[1200px] text-lg">
           <div>
             <h2>Tätigkeitsbereiche</h2>
             <ul>
@@ -99,6 +99,7 @@ export default function Index() {
           </div>
           <div className="border-t border-current md:border-none pt-8 pb-40">
             <h2 className="pb-4">Haftungsauschluss</h2>
+            <div className="text-sm">
             Die Informationen auf diesen Internetseiten wurden nach bestem
             Wissen zusammengestellt. Sie dienen der allgemeinen Information. Die
             hier gegebenen Informationen stellen keine rechtliche Beratung dar.
@@ -112,6 +113,7 @@ export default function Index() {
             heruntergeladener Dateien. Ich bin in keiner Weise verantwortlich
             für die Internetseiten Dritter und distanziere mich von deren
             Inhalten ausdrücklich.
+              </div>
           </div>
         </div>
       </Container>
