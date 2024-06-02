@@ -75,7 +75,7 @@ export default function RootLayout({
       
   
   
-    <div className=" logo xheader font-display text-4xl p-4">Rechtsanwalt Wiazewicz</div>
+    <div className=" logo xheader font-display text-4xl px-4 py-16">Rechtsanwalt Wiazewicz</div>
         <div className="min-h-screen">{children}</div>
         <Footer />
     
