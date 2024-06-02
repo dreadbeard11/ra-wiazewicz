@@ -10,7 +10,7 @@ export default function Index() {
   return (
     <main>
       <Container>
-        <div className="space-y-8">
+        <div className="space-y-24">
           
 <div>
 <h2>
