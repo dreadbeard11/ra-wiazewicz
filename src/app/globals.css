@@ -37,8 +37,14 @@
     font-family: 'Ogg-Bold', serif;
   }
 
+  main {
+    font-size: 24px;
+  }
+  
    h2 {
     font-family: 'OggText-Bold', serif;
+     font-size: 12px;
+   padding-bottom: 4px;
   }
   
 }
