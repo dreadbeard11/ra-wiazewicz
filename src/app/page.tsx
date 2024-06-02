@@ -32,6 +32,8 @@ Tätigkeitsbereiche</h2>
 
 deutsch, englisch, französisch, niederländisch
 </div>
+
+          
 <div>
 <h2>Anschrift</h2>
 <div>Stubenrauchstr. 70</div>
@@ -57,6 +59,7 @@ deutsch, englisch, französisch, niederländisch
     
 
 </div>
+  </div>
           <div className="space-y-4">
 
         
