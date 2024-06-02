@@ -10,7 +10,7 @@ export default function Index() {
   return (
     <main>
       <Container>
-        <div className="space-y-24">
+        <div className="space-y-18">
           
 <div>
 <h2>
@@ -43,10 +43,11 @@ deutsch, englisch, französisch, niederländisch
 <div><EnvelopeIcon className="w-4 inline" />Email: ra@wiazewicz.de </div>
   </div>
 </div>
-<div>
+          <div className="space-y-8">
+
         
 <h2>Information nach dem Telemediengesetz</h2>
-
+<div>
 <div className=" text-sm">Umsatzsteuernummer:</div>
   <div className="text-2xl font-mono">210838591</div>
 </div>
@@ -68,6 +69,7 @@ Es gelten die folgenden berufsrechtlichen Regelungen:
   </div>      
           <div>
 Aufsichtsbehörde im Sinne des § 6 TDG ist die Rechtsanwaltskammer Berlin.
+ </div>    
  </div>    
           <div>
      <h2>
