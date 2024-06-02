@@ -39,7 +39,7 @@ deutsch, englisch, französisch, niederländisch
   <div className="space-x-8 flex flex-row pt-8">
 
       
-<div>  <div>
+<div>  
               
   <PhoneIcon className="w-4 inline" />
   Tel:</div>
