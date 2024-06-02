@@ -38,10 +38,23 @@ deutsch, englisch, französisch, niederländisch
 <div>12161 Berlin Friedenau</div>
   <div className="space-x-8 flex flex-row pt-8">
 
-<div><PhoneIcon className="w-4 inline" />Tel: 030 44049982 </div>
-<div><DevicePhoneMobileIcon className="w-4 inline" />Mobil: 0172 3905208 </div>
-<div><EnvelopeIcon className="w-4 inline" />Email: ra@wiazewicz.de </div>
-  </div>
+      
+<div>
+  <PhoneIcon className="w-4 inline" />
+  Tel:</div>
+    <div>030 44049982 </div>
+         </div>     
+  <div>
+<div><DevicePhoneMobileIcon className="w-4 inline" />Mobil:</div>
+    <div>0172 3905208 </div>
+ </div>      
+    
+    <div>
+    <div><EnvelopeIcon className="w-4 inline" />Email:</div>
+      <div>ra@wiazewicz.de </div>
+   </div>    
+    
+
 </div>
           <div className="space-y-4">
 
@@ -71,7 +84,7 @@ Es gelten die folgenden berufsrechtlichen Regelungen:
 Aufsichtsbehörde im Sinne des § 6 TDG ist die Rechtsanwaltskammer Berlin.
  </div>    
  </div>    
-          <div className="border-t border-current pt-8 pb-40">
+          <div className="border-t border-current md:border-none pt-8 pb-40">
      <h2>
 Haftungsauschluss
        </h2>
