@@ -66,7 +66,7 @@ export default function RootLayout({
       </head>
       <body className={inter.className}>
         <ThemeProviders>
-          <div className=" logo xheader font-display text-4xl px-4 py-16">
+          <div className=" logo xheader font-display text-3xl px-4 py-12">
             Rechtsanwalt Wiazewicz
           </div>
           <div className="min-h-screen">{children}</div>
