@@ -3,15 +3,14 @@ import { ThemeProviders } from "@/app/_components/theme-providers";
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import localFont from 'next/font/local'
+import localFont from "next/font/local";
 // import { SwitchTheme } from "@/app/_components/SwitchTheme";
- import ThemeSwitch from "@/app/_components/ThemeSwitch";
+import ThemeSwitch from "@/app/_components/ThemeSwitch";
 
 // import { ThemeProvider } from 'next-themes'
 
-
 // Font files can be colocated inside of `pages`
-const oggRegular = localFont({ src: './Ogg-Regular.woff' })
+const oggRegular = localFont({ src: "./Ogg-Regular.woff" });
 
 import "./globals.css";
 
@@ -65,18 +64,14 @@ export default function RootLayout({
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
-      <body className={inter.className} >
+      <body className={inter.className}>
         <ThemeProviders>
-    
-  
-  
-    <div className=" logo xheader font-display text-4xl px-4 py-16">Rechtsanwalt Wiazewicz</div>
-        <div className="min-h-screen">{children}</div>
-        
-    
-         </ThemeProviders>  
+          <div className=" logo xheader font-display text-4xl px-4 py-16">
+            Rechtsanwalt Wiazewicz
+          </div>
+          <div className="min-h-screen">{children}</div>
+        </ThemeProviders>
       </body>
     </html>
-
   );
 }

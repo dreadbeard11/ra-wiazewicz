@@ -21,9 +21,7 @@ export default async function Post({ params }: Params) {
   return (
     <main>
       <Container>
-        
         <article className="mb-32">
-         
           <PostBody content={content} />
         </article>
       </Container>
