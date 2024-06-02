@@ -67,17 +67,12 @@ export default function RootLayout({
       </head>
       <body className={inter.className} >
         <ThemeProviders>
-       <div className="fixed top-8 right-8 z-12">
-
-     <ThemeSwitch />
-     
-       </div>
-      
+    
   
   
     <div className=" logo xheader font-display text-4xl px-4 py-16">Rechtsanwalt Wiazewicz</div>
         <div className="min-h-screen">{children}</div>
-        <Footer />
+        
     
          </ThemeProviders>  
       </body>
