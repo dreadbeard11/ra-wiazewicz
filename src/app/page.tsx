@@ -10,7 +10,7 @@ export default function Index() {
   return (
     <main>
       <Container>
-        <div className="space-y-16 w-[900px]">
+        <div className="space-y-16 max-w-[800px]">
           
 <div>
 <h2>
@@ -71,7 +71,7 @@ Es gelten die folgenden berufsrechtlichen Regelungen:
 Aufsichtsbehörde im Sinne des § 6 TDG ist die Rechtsanwaltskammer Berlin.
  </div>    
  </div>    
-          <div>
+          <div className="border-t border-current pt-8 pb-40">
      <h2>
 Haftungsauschluss
        </h2>
