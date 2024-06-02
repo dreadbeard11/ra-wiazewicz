@@ -66,10 +66,10 @@ export default function Index() {
           </div>
           <div className="space-y-4">
             <h2>Information nach dem Telemediengesetz</h2>
-            <div>
-              <div className=" text-sm">Umsatzsteuernummer:</div>
-              <div className="text-2xl font-mono">210838591</div>
-            </div>
+            
+              <div className=" text-sm">Umsatzsteuernummer: 210838591</div>
+              
+            
             <div>
               Herr Wiazewicz ist Mitglied der Rechtsanwaltskammer Berlin und in
               Berlin zugelassen; Postulationsfähig vor allen Amts,-Land und
@@ -88,7 +88,7 @@ export default function Index() {
                 <li>(c) Berufsordnung (BerufsO)</li>
                 <li>
                   (e) Berufsregeln der Rechtsanwälte der Europäischen
-                  Gemeinschaft (einsehbar auf dieser Homepage :www.brak.de)
+                  Gemeinschaft (einsehbar auf dieser Homepage: www.brak.de)
                 </li>{" "}
               </ul>
             </div>
