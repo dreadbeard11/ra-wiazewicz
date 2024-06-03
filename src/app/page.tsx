@@ -50,7 +50,7 @@ export default function Index() {
               <div>
                 <div>
                   <DevicePhoneMobileIcon 
-                  <PhoneIcon className="w-4 h-4 p-1 rounded-full bg-base-content text-base-100 inline"/>
+                  className="w-4 h-4 p-1 rounded-full bg-base-content text-base-100 inline"/>
                   Mobil:
                 </div>
                 <div>0172 3905208 </div>
@@ -59,7 +59,7 @@ export default function Index() {
               <div>
                 <div>
                   <EnvelopeIcon 
-                  <PhoneIcon className="w-4 h-4 p-1 rounded-full bg-base-content text-base-100 inline" />
+                  className="w-4 h-4 p-1 rounded-full bg-base-content text-base-100 inline" />
                   Email:
                 </div>
                 <div>ra@wiazewicz.de </div>
