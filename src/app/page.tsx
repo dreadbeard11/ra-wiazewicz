@@ -41,7 +41,7 @@ export default function Index() {
               <div>
                 <div>
                   {" "}
-                  <div className="w-6 h-6 p-[2px] rounded-full bg-base-content text-base-100">
+                  <div className="w-6 h-6 p-[2px] items-center rounded-full bg-base-content text-base-100">
                  <PhoneIcon className="w-4 h-4 "/>
                   </div>
                   Tel:
