@@ -13,7 +13,7 @@ export default function Index() {
   return (
     <main>
       <Container>
-        <div className="space-y-24 md:w-[900px] max-w-[1200px] leading-loose">
+        <div className="space-y-24 md:w-[900px] max-w-[1200px] leading-relaxed">
           <div>
             <h2>Tätigkeitsbereiche</h2>
             <ul>
@@ -103,7 +103,7 @@ export default function Index() {
           </div>
           <div className="border-t border-current md:border-none pt-8 pb-40">
             <h2 className="pb-4">Haftungsauschluss</h2>
-            <div className="text-sm">
+            <div className="text-sm leading-loose">
             Die Informationen auf diesen Internetseiten wurden nach bestem
             Wissen zusammengestellt. Sie dienen der allgemeinen Information. Die
             hier gegebenen Informationen stellen keine rechtliche Beratung dar.
