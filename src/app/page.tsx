@@ -13,7 +13,7 @@ export default function Index() {
   return (
     <main>
       <Container>
-        <div className="space-y-24 md:w-[900px] max-w-[1200px] leading-relaxed">
+        <div className="space-y-24 md:w-[900px] max-w-[1200px] leading-relaxed text-xl">
           <div>
             <h2>Tätigkeitsbereiche</h2>
             <ul>
