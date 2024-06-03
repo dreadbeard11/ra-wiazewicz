@@ -1,3 +1,4 @@
+
 import Container from "@/app/_components/container";
 // import { ThemeSwitch } from "@/app/_components/ThemeSwitch";
 import { Intro } from "@/app/_components/intro";
@@ -41,8 +42,8 @@ export default function Index() {
               <div>
                 <div>
                   {" "}
-                  <div className="w-6 h-6 p-[2px] items-center rounded-full bg-base-content text-base-100">
-                 <PhoneIcon className="w-4 h-4 align-middle"/>
+                  <div className="justify-center items-center gap-2 w-6 h-6 p-[2px] items-center rounded-full bg-base-content text-base-100">
+                 <PhoneIcon className="w-4 h-4 inline-block align-middle"/>
                   </div>
                   Tel:
                 </div>
