@@ -42,8 +42,8 @@ export default function Index() {
               <div>
                 <div>
                   {" "}
-                  <div className="w-6 h-6 flex items-center rounded-full bg-base-content text-base-100">
-                 <PhoneIcon className="w-4 h-4 mx-auto my-auto align-middle"/>
+                  <div className="w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
+                 <PhoneIcon className="w-4 h-4"/>
                   </div>
                   Tel:
                 </div>
@@ -52,8 +52,9 @@ export default function Index() {
 
               <div>
                 <div>
-                  <DevicePhoneMobileIcon 
-                  className="w-6 h-6 p-[2px] rounded-full bg-base-content text-base-100 inline"/>
+                  <div className="w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
+                  <DevicePhoneMobileIcon className="w-4 h-4"/>
+                </div>
                   Mobil:
                 </div>
                 <div>0172 3905208 </div>
