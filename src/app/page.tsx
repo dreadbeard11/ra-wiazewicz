@@ -41,12 +41,12 @@ export default function Index() {
             <div className="sm:space-x-8 sm:flex sm:flex-row pt-8">
               <div>
                 <div>
-                  <div className="w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
+                  <div className="inline w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
                  <PhoneIcon className="w-4 h-4"/>
                   </div>
                   Tel:
                 </div>
-                <div className="inline">030 44049982 </div>
+                <div>030 44049982 </div>
               </div>
 
               <div>
