@@ -61,6 +61,7 @@ export default function Index() {
               </div>
 
               <div>
+                  <div>
                 <div className="w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
                   <EnvelopeIcon className="w-4 h-4" />
                 </div>
