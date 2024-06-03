@@ -103,7 +103,7 @@ export default function Index() {
           </div>
           <div className="border-t border-current md:border-none pt-8 pb-40">
             <h2 className="pb-4">Haftungsauschluss</h2>
-            <div className="text-sm leading-loose">
+            <div className="text-sm leading-relaxed">
             Die Informationen auf diesen Internetseiten wurden nach bestem
             Wissen zusammengestellt. Sie dienen der allgemeinen Information. Die
             hier gegebenen Informationen stellen keine rechtliche Beratung dar.
