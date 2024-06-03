@@ -71,7 +71,7 @@ export default function Index() {
           <div className="space-y-4">
             <h2>Information nach dem Telemediengesetz</h2>
             
-              <div className=" text-sm">Umsatzsteuernummer: 210838591</div>
+              <div className=" q">Umsatzsteuernummer: 210838591</div>
               
             
             <div>
