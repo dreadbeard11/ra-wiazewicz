@@ -39,7 +39,7 @@ export default function Index() {
             <div>12161 Berlin Friedenau</div>
 
             <div className="sm:space-x-8 sm:flex sm:flex-row pt-8">
-              <div>
+              <div className="space-x-1 flex flex-row">
                 <div>
                   <div className="w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
                  <PhoneIcon className="w-4 h-4"/>
