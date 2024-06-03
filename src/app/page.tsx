@@ -38,9 +38,9 @@ export default function Index() {
             <div>Stubenrauchstr. 70</div>
             <div>12161 Berlin Friedenau</div>
 
-            <div className="sm:space-x-8 sm:flex sm:flex-row pt-8">
-              <div className="space-x-1 flex flex-row">
-                <div className="space-x-1 flex flex-row">
+            <div className="sm:space-x-18 sm:flex sm:flex-row pt-8">
+              <div className="space-x-2 flex flex-row items-center">
+                <div className="space-x-2 flex flex-row items-center">
                   <div className="w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
                  <PhoneIcon className="w-4 h-4"/>
                   </div>
