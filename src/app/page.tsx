@@ -37,7 +37,7 @@ export default function Index() {
             <div>Stubenrauchstr. 70</div>
             <div>12161 Berlin Friedenau</div>
 
-            <div className="space-x-8 flex flex-row pt-8">
+            <div className="sm:space-x-8 sm:flex sm:flex-row pt-8">
               <div>
                 <div>
                   {" "}
