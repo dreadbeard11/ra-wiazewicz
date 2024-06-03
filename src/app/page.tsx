@@ -42,8 +42,8 @@ export default function Index() {
               <div>
                 <div>
                   {" "}
-                  <div className="justify-center w-6 h-6 items-center rounded-full bg-base-content text-base-100">
-                 <PhoneIcon className="w-4 h-4 inline align-middle"/>
+                  <div className="w-6 h-6 rounded-full bg-base-content text-base-100">
+                 <PhoneIcon className="w-4 h-4 mx-auto my-auto align-middle"/>
                   </div>
                   Tel:
                 </div>
