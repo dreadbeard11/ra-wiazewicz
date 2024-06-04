@@ -38,8 +38,7 @@ export default function Index() {
 
           <div>
             <h2>Anschrift</h2>
-            <Link src="https://www.openstreetmap.org/#map=18/52.46903/13.32717&layers=T"
-           target="_blank">
+        
               <Image
       src={`/assets/map.jpg`}
       alt={`Map`}
@@ -47,7 +46,7 @@ export default function Index() {
       width={1300}
       height={630}
     />
-              </Link>
+            
             <div>Stubenrauchstr. 70</div>
             <div>12161 Berlin Friedenau</div>
 
