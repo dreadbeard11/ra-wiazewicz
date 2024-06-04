@@ -50,7 +50,7 @@ export default function Index() {
             <div>Stubenrauchstr. 70</div>
             <div>12161 Berlin Friedenau</div>
 
-            <div className="sm:space-x-16 sm:flex sm:flex-row pt-8">
+            <div className="space-y-4 sm:space-y-0 sm:space-x-16 sm:flex sm:flex-row pt-8">
               <div className="space-x-2 flex flex-row items-center">
                 <div className="flex flex-row items-center">
                   <div className="mr-1 w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
