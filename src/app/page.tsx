@@ -38,10 +38,11 @@ export default function Index() {
 
           <div>
             <h2>Anschrift</h2>
+            <div className
             <Image
       src={`/assets/map.jpg`}
       alt={`Map`}
-      className="shadow-sm w-full"
+      className="shadow-sm w-full max-w-[600px]"
       width={1300}
       height={630}
     />
