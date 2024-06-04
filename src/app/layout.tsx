@@ -64,7 +64,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
-      <body className={inter.className}>
+      <body>
         <ThemeProviders>
           <div className=" logo text-2xl px-6 pt-12 pb-16">
             Rechtsanwalt Wiazewicz
