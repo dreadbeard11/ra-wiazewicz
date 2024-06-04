@@ -10,6 +10,9 @@ import {
   EnvelopeIcon,
 } from "@heroicons/react/24/outline";
 
+import Link from "next/link";
+import Image from "next/image";
+
 export default function Index() {
   return (
     <main>
@@ -35,6 +38,13 @@ export default function Index() {
 
           <div>
             <h2>Anschrift</h2>
+            <Image
+      src={`/assets/map.jpg`}
+      alt={`Map`}
+      className="shadow-sm w-full"
+      width={1300}
+      height={630}
+    />
             <div>Stubenrauchstr. 70</div>
             <div>12161 Berlin Friedenau</div>
 
