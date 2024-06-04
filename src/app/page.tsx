@@ -42,7 +42,7 @@ export default function Index() {
               <Image
       src={`/assets/map.jpg`}
       alt={`Map`}
-      className="shadow-sm w-full max-w-[600px]"
+      className="py-2 w-full max-w-[600px]"
       width={1300}
       height={630}
     />
