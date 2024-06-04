@@ -40,8 +40,8 @@ export default function Index() {
 
             <div className="sm:space-x-16 sm:flex sm:flex-row pt-8">
               <div className="space-x-2 flex flex-row items-center">
-                <div className="space-x-2 flex flex-row items-center">
-                  <div className="w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
+                <div className="flex flex-row items-center">
+                  <div className="mr-1 w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
                  <PhoneIcon className="w-4 h-4"/>
                   </div>
                   Tel:
@@ -50,8 +50,8 @@ export default function Index() {
               </div>
 
              <div className="space-x-2 flex flex-row items-center">
-                <div className="space-x-2 flex flex-row items-center">
-                  <div className="w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
+                <div className="flex flex-row items-center">
+                  <div className="mr-1 w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
                   <DevicePhoneMobileIcon className="w-4 h-4"/>
                 </div>
                   Mobil:
@@ -61,7 +61,7 @@ export default function Index() {
 
                <div className="space-x-2 flex flex-row items-center">
                 <div className=" flex flex-row items-center">
-                <div className="mr-2 w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
+                <div className="mr-1 w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
                   <EnvelopeIcon className="w-4 h-4" />
                 </div>
                   Email:
