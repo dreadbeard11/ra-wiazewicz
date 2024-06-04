@@ -60,8 +60,8 @@ export default function Index() {
               </div>
 
                <div className="space-x-2 flex flex-row items-center">
-                <div className="space-x-2 flex flex-row items-center">
-                <div className="w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
+                <div className=" flex flex-row items-center">
+                <div className="mr-2 w-6 h-6 flex items-center justify-center rounded-full bg-base-content text-base-100">
                   <EnvelopeIcon className="w-4 h-4" />
                 </div>
                   Email:
