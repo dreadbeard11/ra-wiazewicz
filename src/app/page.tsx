@@ -85,19 +85,19 @@ export default function Index() {
           <div className="space-y-4">
             <h2>Information nach dem Telemediengesetz</h2>
             
-              <div className=" q">Umsatzsteuernummer: 210838591</div>
+              <div className=" ">Umsatzsteuernummer: 210838591</div>
               
             
-            <div>
+            <p>
               Herr Wiazewicz ist Mitglied der Rechtsanwaltskammer Berlin und in
               Berlin zugelassen; Postulationsfähig vor allen Amts,-Land und
               Oberlandesgerichten/Kammergericht.
-            </div>
-            <div>
+            </p>
+            <p>
               Die Berufshaftpflichtversicherung von Rechtsanwalt Wiazewicz
               (Versicherungs-Nr. 03.053.5511 50) besteht bei der Gothaer
               Versicherungsbank VVaG, Gothaer Allee 1, 50969 Köln.
-            </div>
+            </p>
             <div>
               Es gelten die folgenden berufsrechtlichen Regelungen:
               <ul>
@@ -110,14 +110,14 @@ export default function Index() {
                 </li>{" "}
               </ul>
             </div>
-            <div>
+            <p>
               Aufsichtsbehörde im Sinne des § 6 TDG ist die Rechtsanwaltskammer
               Berlin.
-            </div>
+            </p>
           </div>
           <div className="border-t border-current md:border-none pt-8 pb-40">
             <h2 className="pb-4">Haftungsauschluss</h2>
-            <div className="text-sm leading-relaxed">
+            <p className="text-sm leading-relaxed">
             Die Informationen auf diesen Internetseiten wurden nach bestem
             Wissen zusammengestellt. Sie dienen der allgemeinen Information. Die
             hier gegebenen Informationen stellen keine rechtliche Beratung dar.
@@ -131,7 +131,7 @@ export default function Index() {
             heruntergeladener Dateien. Ich bin in keiner Weise verantwortlich
             für die Internetseiten Dritter und distanziere mich von deren
             Inhalten ausdrücklich.
-              </div>
+              </p>
           </div>
         </div>
       </Container>
