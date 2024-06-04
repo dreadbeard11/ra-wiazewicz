@@ -31,6 +31,10 @@
     src: url(./OggText-Bold.woff) format("woff");
   }
 
+  body {
+     font-family: "OggText-Light", serif;
+  }
+
   .logo {
     font-family: "OggText-Bold", serif;
   }
