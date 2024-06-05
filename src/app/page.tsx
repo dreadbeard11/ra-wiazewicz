@@ -40,7 +40,7 @@ export default function Index() {
             <h2>Anschrift</h2>
         
               <Image
-      src={`/assets/map.jpg`}
+      src={`/assets/map-wiazewicz.svg`}
       alt={`Map`}
       className="py-2 w-full max-w-[600px]"
       width={1300}
