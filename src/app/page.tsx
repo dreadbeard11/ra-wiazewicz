@@ -46,6 +46,11 @@ export default function Index() {
       width={1300}
       height={630}
     />
+
+            <img
+      src={`/assets/map-wiazewicz.svg`}
+    
+    />
             
             <div>Stubenrauchstr. 70</div>
             <div>12161 Berlin Friedenau</div>
