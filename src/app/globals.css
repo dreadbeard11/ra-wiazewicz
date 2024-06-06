@@ -39,7 +39,9 @@
     font-family: "OggText-Bold", serif;
   }
 
-  
+  svg {
+    color: pink;
+  }
   h2 {
     font-family: "OggText-Bold", serif;
   }
