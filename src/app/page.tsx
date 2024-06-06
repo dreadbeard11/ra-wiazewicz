@@ -13,6 +13,8 @@ import {
 import Link from "next/link";
 import Image from "next/image";
 
+import { Map } from "@/app/_components/Map";
+
 export default function Index() {
   return (
     <main>
@@ -39,6 +41,7 @@ export default function Index() {
           <div>
             <h2>Anschrift</h2>
 
+            <Map />
               <Image
       src={`/assets/map-wiazewicz.svg`}
       alt={`Map`}
