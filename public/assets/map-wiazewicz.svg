@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
 <svg className="fill-current" 
-    width="100%" height="100%" viewBox="0 0 1720 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:2;">
+    width="100%" height="100%" viewBox="0 0 1720 800" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:2;">
     <g transform="matrix(1,0,0,1,-2200,-800)">
         <g id="Artboard2" transform="matrix(0.955556,0,0,0.444444,2200,800)">
             <rect x="0" y="0" width="1800" height="1800" style="fill:none;"/>
@@ -9,7 +8,7 @@
                 <rect x="0" y="0" width="1800" height="1800"/>
             </clipPath>
             <g clip-path="url(#_clip1)">
-                <g id="islands" transform="matrix(1.04651,0,0,2.33305,-41.8605,-2399.48)">
+                <g id="islands" style="fill:blue;" transform="matrix(1.04651,0,0,2.33305,-41.8605,-2399.48)">
                     <g transform="matrix(2.07544,0,0,1.33602,-754.598,-291.054)">
                         <path d="M1225.39,1028.86C1151.22,1144.89 984.328,1255.61 818.137,1257.87C650.812,1260.15 448.515,1127.05 371.637,979.978C366.608,970.357 357.497,968.889 351.304,976.701C345.111,984.513 344.166,998.667 349.195,1008.29C430.075,1163.02 642.353,1305.18 818.39,1302.78C970.059,1300.72 1121.99,1211.43 1210.38,1108.11C1223.75,1092.48 1235.66,1076.52 1245.91,1060.5C1251.53,1051.71 1251.5,1037.48 1245.84,1028.75C1240.17,1020.01 1231.02,1020.06 1225.39,1028.86Z" style="fill:none;stroke:currentColor;stroke-opacity:0.1;stroke-width:1.13px;"/>
                     </g>
