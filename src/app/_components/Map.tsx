@@ -8,7 +8,7 @@ export function Map() {
     clip-rule="evenodd"
     stroke-miterlimit="2"
     stroke-linecap="square"
-    className="h-6 w-6 "
+    
   >
 
     <g transform="matrix(1,0,0,1,-2200,-800)">
