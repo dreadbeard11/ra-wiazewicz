@@ -42,18 +42,6 @@ export default function Index() {
             <h2>Anschrift</h2>
 
             <Map />
-              <Image
-      src={`/assets/map-wiazewicz.svg`}
-      alt={`Map`}
-      className="py-2 w-full max-w-[600px]"
-      width={1300}
-      height={630}
-    />
-
-            <img
-      src={`/assets/map-wiazewicz.svg`}
-    
-    />
             
             <div>Stubenrauchstr. 70</div>
             <div>12161 Berlin Friedenau</div>
