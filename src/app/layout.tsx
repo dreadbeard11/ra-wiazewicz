@@ -1,13 +1,8 @@
-import Footer from "@/app/_components/footer";
-import { ThemeProviders } from "@/app/_components/theme-providers";
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import localFont from "next/font/local";
-// import { SwitchTheme } from "@/app/_components/SwitchTheme";
-import ThemeSwitch from "@/app/_components/ThemeSwitch";
 
-// import { ThemeProvider } from 'next-themes'
 
 // Font files can be colocated inside of `pages`
 const oggRegular = localFont({ src: "./Ogg-Regular.woff" });
@@ -66,7 +61,7 @@ export default function RootLayout({
       </head>
       <body>
         <div className="mx-auto px-6">
-          <div className=" logo text-2xl  pt-12 pb-16">
+          <div className=" logo text-3xl  pt-12 pb-16">
             Rechtsanwalt Wiazewicz
           </div>
           <div className="min-h-screen">{children}</div>
