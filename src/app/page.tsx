@@ -39,7 +39,7 @@ export default function Index() {
           <div>
             <h2>Anschrift</h2>
 
-            <div className="max-w-120">
+            <div className="max-w-[600px]">
               <Map />
             </div>
             <div>Stubenrauchstr. 70</div>
