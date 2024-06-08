@@ -64,6 +64,15 @@ export default function RootLayout({
           <div className=" logo text-3xl  pt-12 pb-16">
             Rechtsanwalt Wiazewicz
           </div>
+
+          <div className="join join-vertical">
+  <input type="radio" name="theme-buttons" className="btn theme-controller join-item" aria-label="Default" value="default"/>
+  <input type="radio" name="theme-buttons" className="btn theme-controller join-item" aria-label="Retro" value="darkx"/>
+  <input type="radio" name="theme-buttons" className="btn theme-controller join-item" aria-label="Cyberpunk" value="light"/>
+  <input type="radio" name="theme-buttons" className="btn theme-controller join-item" aria-label="Valentine" value="valentine"/>
+  <input type="radio" name="theme-buttons" className="btn theme-controller join-item" aria-label="Aqua" value="aqua"/>
+</div>
+          
           <div className="min-h-screen">{children}</div>
         </div>
       </body>
