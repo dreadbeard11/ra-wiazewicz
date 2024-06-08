@@ -63,6 +63,9 @@ const config: Config = {
           warning: "#F80",
           error: "#F00",
 
+          ".logo": {
+    "font-family": "Ogg-Bold",
+  },
           ".link": {
             textUnderlineOffset: "2px",
           },
