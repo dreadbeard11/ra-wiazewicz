@@ -32,6 +32,9 @@ const config: Config = {
           warning: "#F80",
           error: "#F00",
 
+          ".logo": {
+    font-family: "OggText-Light",
+  },
           ".link": {
             textUnderlineOffset: "2px",
           },
