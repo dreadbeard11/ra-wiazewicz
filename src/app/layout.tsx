@@ -60,11 +60,10 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body>
-        <div className="px-6">
-          
+        
           
           <div className="min-h-screen">{children}</div>
-        </div>
+        
       </body>
     </html>
   );
