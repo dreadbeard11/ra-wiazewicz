@@ -15,7 +15,7 @@ import { Map } from "@/app/_components/Map";
 export default function Index() {
   return (
     <main>
-       <Container className="w-xl mx-auto">
+       <Container className="w-2xl mx-auto">
       <div className=" logo text-3xl  pt-12 pb-16">
             Rechtsanwalt Wiazewicz
           </div>
