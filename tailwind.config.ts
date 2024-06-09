@@ -17,9 +17,9 @@ const config: Config = {
         lightx: {
           primary: "#f0f",
           "primary-content": "#fff",
-          secondary: "#f08",
+          secondary: "#80f",
           "secondary-content": "#fff",
-          accent: "#0ff",
+          accent: "#f08",
           "accent-content": "#00f",
           neutral: "#888",
           "neutral-content": "#ffffff",
