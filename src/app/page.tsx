@@ -15,7 +15,9 @@ import { Map } from "@/app/_components/Map";
 export default function Index() {
   return (
     <main>
-      
+      <div className=" logo text-3xl  pt-12 pb-16">
+            Rechtsanwalt Wiazewicz
+          </div>
         <div className="space-y-16 leading-relaxed text-md ">
           <div>
             <h2>Tätigkeitsbereiche</h2>
