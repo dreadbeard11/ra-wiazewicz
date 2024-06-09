@@ -15,7 +15,7 @@ import { Map } from "@/app/_components/Map";
 export default function Index() {
   return (
     <main>
-       <div className="w-[900px] mx-auto">
+       <div className="max-w-[900px] mx-auto px-6">
       <div className=" logo text-3xl  pt-12 pb-16">
             Rechtsanwalt Wiazewicz
           </div>
@@ -112,7 +112,7 @@ export default function Index() {
               Berlin.
             </p>
           </div>
-          <div className="text-xs leading-loose border-t border-current md:border-none pt-8 pb-40">
+          <div className="text-xs leading-loose border-t border-current pt-6 pb-40">
             <h2 className="pb-4">Haftungsauschluss</h2>
             <p className="leading-relaxed">
             Die Informationen auf diesen Internetseiten wurden nach bestem
