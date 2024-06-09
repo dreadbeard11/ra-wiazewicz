@@ -15,7 +15,7 @@ import { Map } from "@/app/_components/Map";
 export default function Index() {
   return (
     <main>
-      <Container>
+      <div className="w-full mx-auto">
         <div className="space-y-16 leading-relaxed text-md ">
           <div>
             <h2>Tätigkeitsbereiche</h2>
@@ -128,7 +128,7 @@ export default function Index() {
               </p>
           </div>
         </div>
-      </Container>
+      </div>
     </main>
   );
 }
