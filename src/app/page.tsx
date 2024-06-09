@@ -112,9 +112,9 @@ export default function Index() {
               Berlin.
             </p>
           </div>
-          <div className="border-t border-current md:border-none pt-8 pb-40">
+          <div className="text-xs leading-loose border-t border-current md:border-none pt-8 pb-40">
             <h2 className="pb-4">Haftungsauschluss</h2>
-            <p className="text-sm leading-relaxed">
+            <p className="leading-relaxed">
             Die Informationen auf diesen Internetseiten wurden nach bestem
             Wissen zusammengestellt. Sie dienen der allgemeinen Information. Die
             hier gegebenen Informationen stellen keine rechtliche Beratung dar.
