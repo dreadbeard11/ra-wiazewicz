@@ -60,7 +60,7 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body>
-        <div className="mx-auto w-xl px-6">
+        <div className="mx-auto max-w-xl px-6">
           
           
           <div className="min-h-screen">{children}</div>
