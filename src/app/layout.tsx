@@ -60,12 +60,10 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body>
-        <div className="mx-auto px-6">
+        <div className="mx-auto w-3xl px-6">
           <div className=" logo text-3xl  pt-12 pb-16">
             Rechtsanwalt Wiazewicz
           </div>
-
-    
           
           <div className="min-h-screen">{children}</div>
         </div>
