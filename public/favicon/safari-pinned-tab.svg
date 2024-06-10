@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-8983.02,0)">
-        <g id="mstile-150x150" transform="matrix(0.166667,0,0,0.166667,8983.02,0)">
+<svg width="100%" height="100%" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-7644,0)">
+        <g id="android-chrome-512x512" transform="matrix(0.568889,0,0,0.568889,7644,0)">
             <rect x="0" y="0" width="1800" height="1800" style="fill:none;"/>
             <clipPath id="_clip1">
                 <rect x="0" y="0" width="1800" height="1800"/>
             </clipPath>
             <g clip-path="url(#_clip1)">
-                <g id="Layer1" transform="matrix(16,0,0,16,-1.02834e-11,0)">
-                    <g id="favicon--wiazewicz.svg" serif:id="favicon -wiazewicz.svg" transform="matrix(0.0625,0,0,0.0625,56.25,56.25)">
+                <g id="Layer1" transform="matrix(4.6875,0,0,4.6875,-7.27596e-12,0)">
+                    <g id="favicon--wiazewicz.svg" serif:id="favicon -wiazewicz.svg" transform="matrix(0.213333,0,0,0.213333,192,192)">
                         <g id="Layer11" serif:id="Layer1">
                             <g id="favicon--wiazewicz.svg1" serif:id="favicon -wiazewicz.svg" transform="matrix(1,0,0,1,-900,-900)">
                                 <clipPath id="_clip2">
@@ -21,9 +21,9 @@
                                             <rect x="0" y="0" width="1800" height="1800" style="fill:none;"/>
                                             <g id="Layer12" serif:id="Layer1">
                                                 <g transform="matrix(3.752,0,0,2.70187,-2458.62,-1020.24)">
-                                                    <ellipse cx="895.157" cy="710.708" rx="239.872" ry="333.102" style="fill:rgb(255,0,255);"/>
+                                                    <ellipse cx="895.157" cy="710.708" rx="239.872" ry="333.102"/>
                                                 </g>
-                                                <g>
+                                                <g transform="matrix(0.843901,0,0,0.843901,162.135,137.454)">
                                                     <g transform="matrix(1.76023,0,0,1.76023,-51.1938,1326.64)">
                                                         <path d="M343.83,-371.4L272.965,-526.936L253.331,-526.936L253.331,-530.004L321.129,-530.004L367.759,-426.006L391.687,-477.545L368.372,-530.004L438.931,-530.004L438.931,-526.936L418.991,-526.936L462.86,-426.006L509.49,-526.936L474.21,-526.936L474.21,-530.004L534.032,-530.004L534.032,-526.936L513.478,-526.936L441.385,-371.4L438.931,-371.4L393.528,-473.557L346.284,-371.4L343.83,-371.4Z" style="fill:white;fill-rule:nonzero;"/>
                                                     </g>
