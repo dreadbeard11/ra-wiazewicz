@@ -1,10 +1,6 @@
 export function Logo() {
   return (
-     <svg width="100%" height="100%" viewBox="0 0 1800 1800" fill-rule="evenodd"
-    clip-rule="evenodd"
-    stroke-linejoin="round"
-    stroke-miterlimit="2"
-    >
+     <svg width="100%" height="100%" viewBox="0 0 1800 1800" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2">
     <rect id="punch-out" x="0" y="0" width="1800" height="1800" fill="none"/>
     <clipPath id="_clip1">
         <rect id="punch-out1" serif:id="punch-out" x="0" y="0" width="1800" height="1800"/>
