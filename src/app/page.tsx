@@ -11,14 +11,20 @@ import Link from "next/link";
 import Image from "next/image";
 
 import { Map } from "@/app/_components/Map";
+import { Logo } from "@/app/_components/logo";
 
 export default function Index() {
   return (
     <main>
        <div className="max-w-[900px] mx-auto px-6">
-      <div className=" logo text-3xl  pt-12 pb-16">
-            Rechtsanwalt Wiazewicz
-          </div>
+         <div className="flex flex-row items-center">
+           <div className="w-8 h-8">
+                  <Logo />
+         </div>
+                  Rechtsanwalt Wiazewicz
+                </div>
+         
+      
         <div className="space-y-16 leading-relaxed text-md ">
           <div>
             <h2>Tätigkeitsbereiche</h2>
