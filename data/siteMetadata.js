@@ -9,7 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://ra-wiazewicz.vercel.app/',
   siteRepo: 'https://github.com/dreadbeard11/ra-wiazewicz',
   siteLogo: '/favicon/safari-pinned-tab.svg',
-  socialBanner: '/assets/OG_ra-wiazewicz.jpg',
+  socialBanner: 'https://ra-wiazewicz.vercel.app/assets/OG_ra-wiazewicz.jpg',
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'address@yoursite.com',
   github: 'https://github.com',
