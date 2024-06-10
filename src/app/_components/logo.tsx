@@ -1,7 +1,6 @@
 export function Logo() {
   return (
-     <svg width="100%" height="100%" viewBox="0 0 1800 1800" 
-fill-rule="evenodd"
+     <svg width="100%" height="100%" viewBox="0 0 1800 1800" fill-rule="evenodd"
     clip-rule="evenodd"
     stroke-linejoin="round"
     stroke-miterlimit="2"
