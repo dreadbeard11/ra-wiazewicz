@@ -1,6 +1,3 @@
-
-import Container from "@/app/_components/container";
-
 import {
   PhoneIcon,
   DevicePhoneMobileIcon,
@@ -18,7 +15,7 @@ export default function Index() {
     <main>
        <div className="max-w-[900px] mx-auto px-6">
          <div className="flex flex-row items-center py-8">
-           <div className="w-12 h-12 pr-4">
+           <div className="w-16 h-16 pr-4">
                   <Logo />
          </div>
                   Rechtsanwalt Wiazewicz
