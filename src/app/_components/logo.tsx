@@ -9,7 +9,7 @@ export function Logo() {
     clip-rule="evenodd"
     stroke-miterlimit="2"
     stroke-linecap="square"
-    
+    fill="currentColor"
   >
   
     <rect id="punch-out" x="0" y="0" width="1800" height="1800" fill="none"/>
