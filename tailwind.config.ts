@@ -23,7 +23,7 @@ const config: Config = {
           "accent-content": "#00f",
           neutral: "#888",
           "neutral-content": "#ffffff",
-          "base-100": "#fde",
+          "base-100": "#eef",
           "base-200": "#eee",
           "base-300": "#ddd",
           "base-content": "#346",
