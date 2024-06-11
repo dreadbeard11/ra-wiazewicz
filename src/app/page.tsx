@@ -17,7 +17,7 @@ export default function Index() {
   return (
     <main>
        <div className="max-w-[900px] mx-auto px-6">
-         <div className="flex flex-row items-center pb-8">
+         <div className="flex flex-row items-center py-8">
            <div className="w-12 h-12 pr-4">
                   <Logo />
          </div>
