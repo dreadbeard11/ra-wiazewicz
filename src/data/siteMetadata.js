@@ -2,8 +2,8 @@
 const siteMetadata = {
   title: '',
   author: '',
-  headerTitle: 'T',
-  description: 'A blog created with Next.js and Tailwind.css',
+  headerTitle: 'RA Wiazewicz',
+  description: `Redesign of 'ra-wiazewicz.de' with Next.js and Tailwind.css`,
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
