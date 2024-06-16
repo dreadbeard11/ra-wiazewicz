@@ -14,19 +14,19 @@ const config: Config = {
   daisyui: {
     themes: [
       {
-      neonx: {
+      lightx: {
           primary: "#f0f",
           "primary-content": "#fff",
           secondary: "#80f",
           "secondary-content": "#fff",
-          accent: "#f0f",
+          accent: "#f08",
           "accent-content": "#00f",
           neutral: "#888",
           "neutral-content": "#ffffff",
-          "base-100": "#00f",
+          "base-100": "#fff",
           "base-200": "#eee",
           "base-300": "#ddd",
-          "base-content": "#fff",
+          "base-content": "#346",
           info: "#08f",
           success: "#0f0",
           warning: "#F80",
@@ -41,19 +41,19 @@ const config: Config = {
         },
       },
       {
-      lightx: {
+      neonx: {
           primary: "#f0f",
           "primary-content": "#fff",
           secondary: "#80f",
           "secondary-content": "#fff",
-          accent: "#f08",
+          accent: "#f0f",
           "accent-content": "#00f",
           neutral: "#888",
           "neutral-content": "#ffffff",
-          "base-100": "#fff",
+          "base-100": "#00f",
           "base-200": "#eee",
           "base-300": "#ddd",
-          "base-content": "#346",
+          "base-content": "#fff",
           info: "#08f",
           success: "#0f0",
           warning: "#F80",
