@@ -46,7 +46,7 @@ const config: Config = {
           "primary-content": "#fff",
           secondary: "#80f",
           "secondary-content": "#fff",
-          accent: "#0ff",
+          accent: "#80f",
           "accent-content": "#00f",
           neutral: "#888",
           "neutral-content": "#ffffff",
