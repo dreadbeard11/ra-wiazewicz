@@ -60,8 +60,7 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body>
-        <div className="join fixed top-8 right-8 text-xs">
-  <input type="radio" name="theme-buttons" className="btn theme-controller join-item" aria-label="Default" value="default"/>
+        <div className={inter.className` join fixed top-8 right-8 text-[6px]`}>
   <input type="radio" name="theme-buttons" className="btn theme-controller join-item" aria-label="light" value="lightx"/>
   <input type="radio" name="theme-buttons" className="btn theme-controller join-item" aria-label="dark" value="darkx"/>
   <input type="radio" name="theme-buttons" className="btn theme-controller join-item" aria-label="neon" value="neonx"/>
