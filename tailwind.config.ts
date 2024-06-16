@@ -14,32 +14,6 @@ const config: Config = {
   daisyui: {
     themes: [
       {
-        neon: {
-          primary: "#f0f",
-          "primary-content": "#fff",
-          secondary: "#80f",
-          "secondary-content": "#fff",
-          accent: "#f08",
-          "accent-content": "#00f",
-          neutral: "#888",
-          "neutral-content": "#ffffff",
-          "base-100": "#ff0",
-          "base-200": "#eee",
-          "base-300": "#ddd",
-          "base-content": "#80f",
-          info: "#08f",
-          success: "#0f0",
-          warning: "#F80",
-          error: "#F00",
-          
-          ".link": {
-            textUnderlineOffset: "2px",
-          },
-          ".link:hover": {
-            opacity: "80%",
-          },
-        },
-      },
       lightx: {
           primary: "#f0f",
           "primary-content": "#fff",
