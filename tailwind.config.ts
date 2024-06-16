@@ -42,11 +42,11 @@ const config: Config = {
       },
       {
       neonx: {
-          primary: "#80f",
-          "primary-content": "#fff",
+          primary: "#0f0",
+          "primary-content": "#00f",
           secondary: "#80f",
           "secondary-content": "#fff",
-          accent: "#0f0",
+          accent: "#ff0",
           "accent-content": "#00f",
           neutral: "#888",
           "neutral-content": "#ffffff",
