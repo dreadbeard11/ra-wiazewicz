@@ -59,7 +59,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
-      <body>
+      <body data-theme="darkx">
         
           
           <div className="min-h-screen">{children}</div>
