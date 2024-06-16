@@ -59,8 +59,13 @@ export default function RootLayout({
         <meta name="theme-color" content="#000" />
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
-      <body data-theme="darkx">
-        
+      <body>
+        <div className="join">
+  <input type="radio" name="theme-buttons" className="btn theme-controller join-item" aria-label="Default" value="default"/>
+  <input type="radio" name="theme-buttons" className="btn theme-controller join-item" aria-label="light" value="light"/>
+  <input type="radio" name="theme-buttons" className="btn theme-controller join-item" aria-label="dark" value="darkx"/>
+  
+</div>
           
           <div className="min-h-screen">{children}</div>
         
